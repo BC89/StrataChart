@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/233c4289-5a5a-4dbd-90a5-e0cb1fe9ada3/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/StrataChart",
+    "appService.deploySubpath": "."
+}
